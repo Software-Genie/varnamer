@@ -6,7 +6,7 @@ Creating new tickets for bugs or feature requests is much appreciated 🙂 Feel 
 
 ## Getting Started
 
-Head over to [our website](https://varnamer.chat/) to download and try out the editor.
+Head over to [our website](https://varnamer.chat/) to download and try out the tool.
 
 ## Features
 
